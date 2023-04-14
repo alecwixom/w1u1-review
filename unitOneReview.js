@@ -188,7 +188,10 @@ switch(colors[i]){
     -- Testing & Integration
     -- Maintain
 */
-
+/*
+    Planning is deciding what you want out of the software
+    Analysis is planning out on paper
+*/
 // ***** Git ***** //
 /* 
     Discuss:
